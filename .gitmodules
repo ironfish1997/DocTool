@@ -1,0 +1,24 @@
+[submodule "ConfigServer"]
+	path = ConfigServer
+	url = https://github.com/ironfish1997/Doctool_config_server.git
+[submodule "ConfigRepo"]
+	path = ConfigRepo
+	url = https://github.com/ironfish1997/Doctool_config_repo.git
+[submodule "AccountServer"]
+	path = AccountServer
+	url = https://github.com/ironfish1997/DocTool_account_server.git
+[submodule "ApiGateway"]
+	path = ApiGateway
+	url = https://github.com/ironfish1997/DocTool_Api_Gateway.git
+[submodule "OrderServer"]
+	path = OrderServer
+	url = https://github.com/ironfish1997/DocTool_OrderServer.git
+[submodule "PublicServer"]
+	path = PublicServer
+	url = https://github.com/ironfish1997/DocTool_public_server.git
+[submodule "TreatmentServer"]
+	path = TreatmentServer
+	url = https://github.com/ironfish1997/DocTool_treatment_server.git
+[submodule "ReactWebsite"]
+	path = ReactWebsite
+	url = https://github.com/ironfish1997/DocTool_ReactWebsite.git
